@@ -4,6 +4,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/react-ithillel/homework-25.1/",
+  base: "/react-ithillel/",
   plugins: [react(), tailwindcss()],
 });
